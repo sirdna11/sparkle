@@ -1,0 +1,118 @@
+.sapnu-banka-page{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.sapnu-banka-page h1{
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 71px;
+    text-align: center;
+    color: #2F4858;
+    margin-top: 205px;
+}
+.sapnu-banka-page div:nth-child(2){
+    height: 769px;
+    width: 100%;
+    object-fit: cover;
+    margin-top: 60px;
+}
+.sapnu-banka-page img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+.sapnu-banka-page2{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+.sapnu-banka-page2 h1{
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 44px;
+    text-align: center;
+    color: #2F4858;
+    margin-top: 150px;
+}
+.sapnu-banka-page2 div{
+    display: flex;
+}
+.sapnu-banka-page2 p{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    color: #2F4858;
+}
+.page2-iner-text{
+    width: 500px;
+    height: 89px;
+}
+.page2-iner-text2{
+    width: 495px;
+    height: 96px;
+}
+.page2-iner-text3{
+    width: 500px;
+    height: 59px;
+}
+.page2-div{
+    margin-top: 90px;
+}
+.page2-div2{
+    margin-top: 100px;
+}
+.page2-div3{
+    margin-top: 113px;
+}
+.sapnu-banka-page3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 150px;
+}
+.sapnu-banka-page3 h1{
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 44px;
+    text-align: center;
+    color: #2F4858;
+}
+.sapnu-banka-page3 div:nth-child(2){
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    width: 818px;
+    height: 31px;
+    color: #2F4858;
+    margin-top: 50px;
+}
+.sapnu-banka-page4{
+    margin-top: 150px;
+    background-image: url('../img/Union 3.png');
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-size: cover;
+    height: 533px;
+}
+.idotisms{
+    position: relative;
+}
